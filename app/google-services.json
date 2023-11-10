@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965528033707",
+    "project_id": "quizapp-af51b",
+    "storage_bucket": "quizapp-af51b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965528033707:android:e3dce7ec30259f02a21aee",
+        "android_client_info": {
+          "package_name": "com.chaimaerazzouki.quizgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9qZTeFWP1_MUaIrN4XkYmGnDXVeYm_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965528033707:android:21a10b2bb959abdba21aee",
+        "android_client_info": {
+          "package_name": "ma.razzoukichaimae.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9qZTeFWP1_MUaIrN4XkYmGnDXVeYm_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

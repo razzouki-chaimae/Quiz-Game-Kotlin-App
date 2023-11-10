@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.fragments.QuizFragment"
+    android:background="@drawable/gradient_blue_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/selectedThemeNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Theme Name"
+            android:textColor="#FFFF1C"
+            android:textSize="28dp"
+            android:textStyle="bold"
+            android:layout_margin="8dp"/>
+
+        <TextView
+            android:id="@+id/currentScoreTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score : 0"
+            android:textSize="24dp"
+            android:layout_margin="8dp"/>
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/questionViewPager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/nextQuestionButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:backgroundTint="#FFFF1C"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="120dp"
+            android:enabled="false"/>
+
+    </LinearLayout>
+</FrameLayout>

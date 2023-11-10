@@ -1,0 +1,368 @@
+[
+  {
+    "question": "When did Neil Armstrong become the first person to walk on the moon?",
+    "options": ["1969", "1973", "1977", "1983"],
+    "correctAnswer": 0,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did Columbus \"discover\" America?",
+    "options": ["1201", "1492", "1575", "1699"],
+    "correctAnswer": 1,
+    "questionTheme": "History"
+  },
+  {
+    "question": "What is the date of the fall of the Berlin Wall?",
+    "options": ["1969", "1979", "1989", "1999"],
+    "correctAnswer": 2,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the Wright Brothers fly the first airplane?",
+    "options": ["1888", "1903", "1917", "1931"],
+    "correctAnswer": 1,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the World War I begin?",
+    "options": ["1813", "1873", "1893", "1914"],
+    "correctAnswer": 3,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the Japanese bomb Pearl Harbor?",
+    "options": ["1929", "1939", "1941", "1945"],
+    "correctAnswer": 2,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When was the start of the Great Depression?",
+    "options": ["1893", "1907", "1919", "1929"],
+    "correctAnswer": 3,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the Spanish Armada sail to invade England but is scattered?",
+    "options": ["1347", "1490", "1588", "1702"],
+    "correctAnswer": 2,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did Edison patent the light bulb?",
+    "options": ["1879", "1909", "1929", "1949"],
+    "correctAnswer": 0,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the Black Plague reach Europe?",
+    "options": ["799", "1045", "1347", "1501"],
+    "correctAnswer": 2,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When the U.S. Declaration of Independence was signed?",
+    "options": ["1694", "1736", "1776", "1814"],
+    "correctAnswer": 2,
+    "questionTheme": "History"
+  },
+  {
+  "question": "When was Napoleon's final defeat at the Battle of Waterloo?",
+  "options": ["1701", "1751", "1815", "1871"],
+  "correctAnswer": 2,
+  "questionTheme": "History"
+  },
+  {
+    "question": "When did he Protestant Reformation begin?",
+    "options": ["792", "1000", "1311", "1517"],
+    "correctAnswer": 3,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the U.S. Civil War begin?",
+    "options": ["1791", "1831", "1861", "1891"],
+    "correctAnswer": 2,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did Constantinople fall to Turkish invaders - ending the Byzantine Empire?",
+    "options": ["477", "901", "1199", "1453"],
+    "correctAnswer": 3,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the King John sign the Magna Carta?",
+    "options": ["999", "1215", "1370", "1511"],
+    "correctAnswer": 1,
+    "questionTheme": "History"
+  },
+  {
+    "question": "When did the prophet Muhammed die?",
+    "options": ["332", "632", "932", "1232"],
+    "correctAnswer": 1,
+    "questionTheme": "History"
+  },
+  {
+    "question": "Who was the first person to orbit the Earth?",
+    "options": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Valentine Tereshkova"],
+    "correctAnswer": 1,
+    "questionTheme": "History"
+  },
+  {
+    "question": "Who hosted the Olympics in 1940?",
+    "options": ["Lake Placid", "Los Angeles", "Paris", "No one"],
+    "correctAnswer": 3,
+    "questionTheme": "History"
+  },
+  {
+    "question": "Which of these writers was NOT English?",
+    "options": ["Jane Austen", "Agatha Christie", "Charles Dickens", "Oscar Wilde"],
+    "correctAnswer": 3,
+    "questionTheme": "History"
+  },
+
+
+
+  {
+    "question": "Which of these U.S. states does NOT border Canada?",
+    "options": ["Alaska", "Indiana", "Maine", "Minnesota"],
+    "correctAnswer": 1,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these countries was NOT a part of the Soviet Union?",
+    "options": ["Belarus", "Georgia", "Poland", "Ukraine"],
+    "correctAnswer": 2,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these cities is NOT a national capital?",
+    "options": ["Bangkok", "Cairo", "Prague", "Sydney"],
+    "correctAnswer": 3,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these cities DOESN'T border the Mediterranean Sea?",
+    "options": ["Alexandria", "Barcelona", "Lisbon", "Monaco"],
+    "correctAnswer": 2,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these countries was NEVER part of the British Empire?",
+    "options": ["Ireland", "Kenya", "New Zealand", "Thailand"],
+    "correctAnswer": 3,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which one of these cities is NOT in the Southern Hemisphere?",
+    "options": ["Brasilia", "Brisbane", "Colombo", "Johannesburg"],
+    "correctAnswer": 2,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which one of these countries is NOT in Central America?",
+    "options": ["Belize", "Honduras", "Panama", "Suriname"],
+    "correctAnswer": 3,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these cities does NOT border the Great Lakes?",
+    "options": ["Chicago", "Cleveland", "Pittsburgh", "Toronto"],
+    "correctAnswer": 2,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these countries is NOT majority-Muslim?",
+    "options": ["Albania", "Ethiopia", "Indonesia", "Morocco"],
+    "correctAnswer": 1,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these countries is NOT recognized by the United Nations?",
+    "options": ["Cyprus", "Iran", "Israel", "Taiwan"],
+    "correctAnswer": 3,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these mountain ranges is NOT in Europe?",
+    "options": ["The Alps", "Atlas Mountains", "Carpathian Mountains", "The Pyrenees"],
+    "correctAnswer": 1,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these things is NOT located in Africa?",
+    "options": ["Aswan Dam", "Gobi Desert", "Lake Victoria", "Zambezi River"],
+    "correctAnswer": 1,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these countries is NOT one of the top 20 oil producers?",
+    "options": ["Iraq", "Morocco", "Norway", "United States"],
+    "correctAnswer": 1,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these cities is NOT in India?",
+    "options": ["Bangalore", "Bhopal", "Chennai", "Karachi"],
+    "correctAnswer": 3,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these countries does NOT have only one border?",
+    "options": ["Haiti", "Ireland", "North Korea", "Portugal"],
+    "correctAnswer": 2,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these mountain ranges has the highest maximum elevation?",
+    "options": ["Andes", "Alps", "Urals", "Rockies"],
+    "correctAnswer": 0,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these rivers flows past the most countries?",
+    "options": ["Amazon", "Mississippi", "Danube", "Euphrates"],
+    "correctAnswer": 2,
+    "questionTheme": "Geography"
+  },
+  {
+  "question": "Which of these cities has the highest population?",
+  "options": ["Singapore", "Shanghai", "Santiago", "San Francisco"],
+  "correctAnswer": 1,
+  "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these islands has the largest area?",
+    "options": ["Iceland", "Cuba", "Madagascar", "Great Britain"],
+    "correctAnswer": 2,
+    "questionTheme": "Geography"
+  },
+  {
+    "question": "Which of these cities has the most air pollution?",
+    "options": ["Delhi", "Los Angeles", "Tokyo", "Rome"],
+    "correctAnswer": 0,
+    "questionTheme": "Geography"
+  },
+
+
+
+  {
+    "question": "After how many Year’s FIFA World Cup held?",
+    "options": ["2 years", "3 years", "4 years", "Every year"],
+    "correctAnswer": 2,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Which Country won the first FIFA World Cup?",
+    "options": ["Argentina", "Uruguay", "Italy", "Brazil"],
+    "correctAnswer": 2,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Which Country won the first FIFA World Cup?",
+    "options": ["Argentina", "Uruguay", "Italy", "Brazil"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Who won the first ICC World Cup?",
+    "options": ["India", "West Indies", "England", "Australia"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Who won the first T20 World Cup?",
+    "options": ["Pakistan", "India", "Sri Lanka", "West Indies"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Who has the Highest Number of Gold Medals in Olympic History?",
+    "options": ["Larisa Latynina", "Mark Spitz", "Michael Phelps", "Saina Nehwal"],
+    "correctAnswer": 2,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "What is the 100m World Record of Usain Bolt?",
+    "options": ["14.35 sec", "9.58 sec", "9.05 sec", "10.12 sec"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Where is the Famous Boxer Mary Kom from?",
+    "options": ["Manipur", "Mizoram", "Nagaland", "Tripura"],
+    "correctAnswer": 0,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Which Sport is Performed by the Legend \"Muhammad Ali\",?",
+    "options": ["Weight Lifting", "Swimming", "Boxing", "Shooting"],
+    "correctAnswer": 2,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "When was the first FIFA World Cup held?",
+    "options": ["1930", "1925", "1934", "1818"],
+    "correctAnswer": 0,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "When did Cristiano Ronaldo join Juventus Football Club?",
+    "options": ["2017", "2018", "2019", "2016"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2018?",
+    "options": ["France", "Germany", "Portugal", "Uruguay"],
+    "correctAnswer": 0,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Which is the Largest Football Stadium in the World?",
+    "options": ["Salt Lake Stadium", "Rungrado 1st of May Stadium", "T&T Stadium", "Melbourne Cricket Ground"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "What is the National Game of the USA?",
+    "options": ["Tennis", "Soccer", "Baseball", "Basket Ball"],
+    "correctAnswer": 2,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Which Country won the most FIFA World Cups?",
+    "options": ["Germany", "Argentina", "Brazil", "France"],
+    "correctAnswer": 2,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "What is the National Game of India?",
+    "options": ["Kabaddi", "Hockey", "Cricket", "Football"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "What is the National Game of Japan?",
+    "options": ["Boat Racing", "Wrestling", "Sipa", "Sumo"],
+    "correctAnswer": 3,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "What is the National Game of New Zealand?",
+    "options": ["Archery", "Rugby Union", "Cricket", "Golf"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "What is the National Sports of Canada?",
+    "options": ["Cricket", "Ice Hockey", "Field Hockey", "Football"],
+    "correctAnswer": 1,
+    "questionTheme": "Sport"
+  },
+  {
+    "question": "Who Won the Most Ballon d’Or Award?",
+    "options": ["Marco van Basten", "Cristiano Ronaldo", "Lionel Messi", "Michel Platini"],
+    "correctAnswer": 2,
+    "questionTheme": "Sport"
+  }
+]

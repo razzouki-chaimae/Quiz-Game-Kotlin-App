@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="12dp">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/questionIndexTextView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1/20"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Current Score : 0"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="01:30"/>
+
+        </TableRow>
+
+    </TableLayout>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:cardCornerRadius="24dp"
+        app:cardElevation="12dp"
+        app:contentPadding="16dp"
+        app:cardUseCompatPadding="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The question will display here"/>
+    </androidx.cardview.widget.CardView>
+
+    <RadioGroup
+        android:id="@+id/optionsRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton 
+            android:layout_height="wrap_content"
+             android:layout_width="match_parent"
+            android:text="Option 1"/>
+
+        <RadioButton
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="Option 2"/>
+
+        <RadioButton
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="Option 3"/>
+
+        <RadioButton
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="Option 4"/>
+
+    </RadioGroup>
+
+</LinearLayout>
